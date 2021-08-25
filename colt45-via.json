@@ -1,7 +1,7 @@
 {
     "name": "Colt45",
-    "vendorId": "",
-    "productId": "",
+    "vendorId": "4B44",
+    "productId": "6334",
     "lighting": "none",
     "matrix": {
         "rows": 6,
